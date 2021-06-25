@@ -66,7 +66,7 @@ class Circle extends Figure {
 public class abstractClassAreas {
 
     public static void main(String args[]) {
-        Rectangle f1 = new Rectangle(3, 4);
+        Rectangle f1 = new Rectangle(4, 3);
         Square f2 = new Square(5);
         Circle f3 = new Circle(7);
 
