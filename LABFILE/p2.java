@@ -25,6 +25,7 @@ public class p2 {
                     }
                 }
             }
+            System.out.println("Sorted ARRAY: ");
             for (int i = 0; i < size; i++) {
                 System.out.println(arr[i] + " ");
             }
